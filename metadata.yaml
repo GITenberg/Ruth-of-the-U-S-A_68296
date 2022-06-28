@@ -5,6 +5,9 @@ contributor:
     agent_name: Betts, Harold H.
     gutenberg_agent_id: '54703'
     url: http://www.gutenberg.org/2009/agents/54703
+covers:
+- cover_type: archival
+  image_path: 68296-h/images/cover.jpg
 creator:
   author:
     agent_name: Balmer, Edwin
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36187
     wikipedia: https://en.wikipedia.org/wiki/Edwin_Balmer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68296#Ruth-of-the-U-S-A
 gutenberg_issued: '2022-06-12'
 identifiers:
   gutenberg: '68296'
